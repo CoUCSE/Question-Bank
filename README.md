@@ -9,7 +9,7 @@ We all need questions from previous semesters of previous batches to learn or pr
 1. First fork this repository.</br>
 2. Clone repository.</br>
 Command:
-```md
+```bash
 git clone https://github.com/We-are-for-us-CoU-CSE/Question-Bank
 ```
 3. Keep your image files according to course name and session.</br>
