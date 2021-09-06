@@ -17,12 +17,12 @@ We all need questions from previous semesters of previous batches to learn or pr
         <tr>
             <td><a href="./Assets/Data-Structure">Data Structure</a></td>
             <td>Unknown</td>
-            <td><a href="../Assets/Data-Structure/2018-2019">2018-2019</a></td>
+            <td><a href="./Assets/Data-Structure/2018-2019">2018-2019</a></td>
         </tr>
         <tr>
             <td><a href="./Assets/Probability-and-statistics">Probability and Statistics</a></td>
             <td>Unknown</td>
-            <td><a href="../Assets/Probability-and-statistics/2018-2019">2018-2019</a></td>
+            <td><a href="./Assets/Probability-and-statistics/2018-2019">2018-2019</a></td>
         </tr>
     </table>
 </details>
