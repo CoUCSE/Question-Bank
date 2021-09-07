@@ -29,5 +29,10 @@ We all need questions from previous semesters of previous batches to learn or pr
             <td>Unknown</td>
             <td><a href="./Assets/Physics/2018-2019">2018-2019</a></td>
         </tr>
+        <tr>
+            <td><a href="./Assets/Physics">Physics</a></td>
+            <td>Unknown</td>
+            <td><a href="./Assets/Physics/2018-2019">2018-2019</a></td>
+        </tr>
     </table>
 </details>
