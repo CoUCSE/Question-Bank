@@ -6,28 +6,41 @@ We all need questions from previous semesters of previous batches to learn or pr
 <b><h4>How to attach a question:</h></b>
 <pre> <b>Comming Soon</b></pre>
 
-<details>
-    <summary>Index</summary>
-    <table>
-        <tr>
-            <td>Course</td>
-            <td>Teacher</td>
-            <td>Session</td>
-        </tr>
-        <tr>
-            <td><a href="./Assets/Data-Structure">Data Structure</a></td>
-            <td>Unknown</td>
-            <td><a href="./Assets/Data-Structure/2018-2019">2018-2019</a></td>
-        </tr>
-        <tr>
-            <td><a href="./Assets/Probability-and-statistics">Probability and Statistics</a></td>
-            <td>Unknown</td>
-            <td><a href="./Assets/Probability-and-statistics/2018-2019">2018-2019</a></td>
-        </tr>
-         <tr>
-            <td><a href="./Assets/Physics">Physics</a></td>
-            <td>Unknown</td>
-            <td><a href="./Assets/Physics/2018-2019">2018-2019</a></td>
-        </tr>
-    </table>
-</details>
+<h3>Index:</h4></br>
+<table>
+    <tr>
+        <th>Course</th>
+        <th>Teacher</th>
+        <th>Session</th>
+    </tr>
+    <tr>
+        <td><a href="./Assets/Data-Structure">Data Structure</a></td>
+        <td>Hasan Hafizur Rahman</td>
+        <td><a href="./Assets/Data-Structure/2018-2019">2018-2019</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/Probability-and-statistics">Probability and Statistics</a></td>
+        <td>Unknown</td>
+        <td><a href="./Assets/Probability-and-statistics/2018-2019">2018-2019</a></td>
+    </tr>
+     <tr>
+        <td><a href="./Assets/Physics">Physics</a></td>
+        <td>Unknown</td>
+        <td><a href="./Assets/Physics/2018-2019">2018-2019</a></td>
+    </tr>
+     <tr>
+        <td><a href="./Assets/Accounting">Accounting</a></td>
+        <td>Unknown</td>
+        <td><a href="./Assets/Accounting/2014-2015">2014-2015</a></td>
+    </tr>
+     <tr>
+        <td><a href="./Assets/Computer%20Fundamental">Computer Fundamental</a></td>
+        <td>Unknown</td>
+        <td><a href="./Assets/Computer%20Fundamental/2014-2015">2014-2015</a></td>
+    </tr>
+     <tr>
+        <td><a href="./Assets/ECD">ECD</a></td>
+        <td>Unknown</td>
+        <td><a href="./Assets/ECD/2014-2015">2014-2015</a></td>
+    </tr>
+</table>
