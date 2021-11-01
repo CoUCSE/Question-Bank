@@ -23,24 +23,39 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>Unknown</td>
         <td><a href="./Assets/Probability-and-statistics/2018-2019">2018-2019</a></td>
     </tr>
-     <tr>
+    <tr>
         <td><a href="./Assets/Physics">Physics</a></td>
         <td>Unknown</td>
         <td><a href="./Assets/Physics/2018-2019">2018-2019</a></td>
     </tr>
-     <tr>
+    <tr>
         <td><a href="./Assets/Accounting">Accounting</a></td>
         <td>Unknown</td>
         <td><a href="./Assets/Accounting/2014-2015">2014-2015</a></td>
     </tr>
-     <tr>
+    <tr>
         <td><a href="./Assets/Computer%20Fundamental">Computer Fundamental</a></td>
         <td>Unknown</td>
         <td><a href="./Assets/Computer%20Fundamental/2014-2015">2014-2015</a></td>
     </tr>
-     <tr>
+    <tr>
         <td><a href="./Assets/ECD">ECD</a></td>
         <td>Unknown</td>
         <td><a href="./Assets/ECD/2014-2015">2014-2015</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/PDF/Algorithm.pdf">Algorithm Analysis and Design</a></td>
+        <td>Khalil Ahmed</td>
+        <td>2017-2018</td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/PDF/Algorithm.pdf">Java Technologies</a></td>
+        <td>Nayan Banik</td>
+        <td>2017-2018</td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/PDF/Algorithm.pdf">Computer Architecture</a></td>
+        <td>Meskat Jahan</td>
+        <td>2017-2018</td>
     </tr>
 </table>
