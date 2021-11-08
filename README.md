@@ -44,11 +44,6 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td><a href="./Assets/ECD/2014-2015">2014-2015</a></td>
     </tr>
     <tr>
-        <td><a href="./Assets/PDF/Algorithm.pdf">Algorithm Analysis and Design</a></td>
-        <td>Khalil Ahmed</td>
-        <td>2017-2018</td>
-    </tr>
-    <tr>
         <td><a href="./Assets/PDF/Algorithm.pdf">Java Technologies</a></td>
         <td>Nayan Banik</td>
         <td>2017-2018</td>
