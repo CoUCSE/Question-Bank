@@ -58,4 +58,14 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>Meskat Jahan</td>
         <td>2017-2018</td>
     </tr>
+    <tr>
+        <td><a href="./Assets/Algorithm">Algorithm Analysis and Design</a></td>
+        <td>Khalil Ahammad</td>
+        <td><a href="./Assets/Algorithm/algo17-18">2017-18</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/Algorithm">Algorithm Analysis and Design</a></td>
+        <td>Khalil Ahammad</td>
+        <td><a href="./Assets/Algorithm/algo18-19">2018-19</a></td>
+    </tr>
 </table>
