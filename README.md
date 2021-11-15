@@ -29,24 +29,34 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td><a href="./Assets/Algebra_Trigonometry_Matrices/Algebra_Trigonometry_matrices_12-13.pdf">2012-13</a></td>
     </tr>
     <tr>
-        <td><a href="./Assets/Algorithm">Algorithm Analysis and Design</a></td>
+        <td><a href="./Assets/Algorithm_Analysis_and_Design">Algorithm Analysis and Design</a></td>
         <td>Khalil Ahammad</td>
-        <td><a href="./Assets/Algorithm/algo17-18">2017-18</a></td>
+        <td><a href="./Assets/Algorithm_Analysis_and_Design/algo17-18">2017-18</a></td>
     </tr>
     <tr>
-        <td><a href="./Assets/Algorithm">Algorithm Analysis and Design</a></td>
+        <td><a href="./Assets/Algorithm_Analysis_and_Design">Algorithm Analysis and Design</a></td>
         <td>Khalil Ahammad</td>
-        <td><a href="./Assets/Algorithm/algo18-19">2018-19</a></td>
+        <td><a href="./Assets/Algorithm_Analysis_and_Design/algo18-19">2018-19</a></td>
     </tr>
     <tr>
-        <td><a href="./Assets/PDF/Computer_Architecture">Computer Architecture</a></td>
+        <td><a href="./Assets/Bangladesh_Studies">Bangladesh Studies</a></td>
+        <td>*Zia Rahman </td>
+        <td><a href="./Assets/Bangladesh_Studies/Bangladesh_Studies_17-18.pdf">2017-18</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/Complex_Variable_and_Geometry">Complex Variable and Geometry</a></td>
+        <td>*Mortuja sir</td>
+        <td><a href="./Assets/Complex_Variable_and_Geometry/Complex_Variable_and_Geometry_17-18.pdf">2017-18</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/Computer_Architecture">Computer Architecture</a></td>
         <td>Meskat Jahan</td>
         <td><a href="./Assets/Computer_Architecture/Computer_Architecture_17-18.pdf">2017-18</a></td>
     </tr>
     <tr>
-        <td><a href="./Assets/Computer%20Fundamental">Computer Fundamental</a></td>
+        <td><a href="./Assets/Computer_Fundamental">Computer Fundamental</a></td>
         <td>Unknown</td>
-        <td><a href="./Assets/Computer%20Fundamental/2014-2015">2014-2015</a></td>
+        <td><a href="./Assets/Computer_Fundamental/2014-2015">2014-2015</a></td>
     </tr>
     <tr>
         <td><a href="./Assets/Computer_networks">Computer Networks</a></td>
@@ -82,6 +92,11 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td><a href="./Assets/Computer_Peripherals_and_Interfacing">Computer Peripherals and Interfacing</a></td>
         <td>Unknown</td>
         <td><a href="./Assets/Computer_Peripherals_and_Interfacing/Computer_Peripherals_and_Interfacing_12-13.pdf">2012-13</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/Concrete_Mathematics">Concrete Mathematics</a></td>
+        <td>Kamal Pasha</td>
+        <td><a href="./Assets/Concrete_Mathematics/Concrete_Mathematics_17-18.pdf">2017-18</a></td>
     </tr>
     <tr>
         <td><a href="./Assets/Data-Structure">Data Structure</a></td>
@@ -144,9 +159,14 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td><a href="./Assets/Numarical_Methods/Numarical_methods_lab_13-14.pdf">2013-14</a></td>
     </tr>
     <tr>
-        <td><a href="./Assets/PDF/Java_Technologies">Java Technologies</a></td>
+        <td><a href="./Assets/Java_Technologies">Java Technologies</a></td>
         <td>Nayan Banik</td>
         <td><a href="./Assets/Java_Technologies/Java Technologies_17-18.pdf">2017-18</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/Java_Technologies">Java Technologies</a><b> LAB</b></td>
+        <td>Nayan Banik</td>
+        <td><a href="./Assets/Java_Technologies/Java_Technologies_Lab_17-18.pdf">2017-18</a></td>
     </tr>
     </tr>
         <td><a href="./Assets/OOP_c++">OOP C++</a></td>
@@ -175,7 +195,7 @@ We all need questions from previous semesters of previous batches to learn or pr
     </tr>
     <tr>
         <td><a href="./Assets/Probability-and-statistics">Probability and Statistics</a></td>
-        <td>Unknown</td>
+        <td>Dulal Nandi</td>
         <td><a href="./Assets/Probability-and-statistics/2018-2019">2018-2019</a></td>
     </tr>
     <tr>
@@ -197,5 +217,10 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td><a href="./Assets/Software_Engineering">Software Engineering</a></td>
         <td>Unknown</td>
         <td><a href="./Assets/Software_Engineering/Software_Engineering_10-11.pdf">2012-13</a></td>
+    </tr>
+    <tr>
+        <td><a href="./Assets/System_Analysis_and_Design">System Analysis and Design</a></td>
+        <td>Hasan Hafizur Rahman</td>
+        <td><a href="./Assets/System_Analysis_and_Design/System_Analysis_and_Design_17-18.pdf">2017-18</a></td>
     </tr>
 </table>
