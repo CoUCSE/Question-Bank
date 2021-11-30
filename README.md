@@ -6,6 +6,7 @@ We all need questions from previous semesters of previous batches to learn or pr
 <b><h4>How to attach a question:</h></b>
 <pre> <b>Comming Soon</b></pre>
 
+
 <h3>Index:</h4></br>
 <table>
     <tr>
@@ -109,9 +110,14 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td><a href="./Assets/DLD/Digital_Logic_Design_12-13.pdf">2012-13</a></td>
     </tr>
     <tr>
-        <td><a href="./Assets/DLD">Digital Logic Design</a></td>
+        <td>"</td>
         <td>Unknown</td>
         <td><a href="./Assets/DLD/Digital_Logic_Design_13-14.pdf">2014-14</a></td>
+    </tr>
+    <tr>
+        <td>"</td>
+        <td>Nishu ma'am</td>
+        <td><a href="./Assets/DLD/2017-2018">2017-18</a></td>
     </tr>
     <tr>
         <td><a href="./Assets/ECD">E-Commerce</a></td>
@@ -128,6 +134,11 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>Unknown</td>
         <td><a href="./Assets/ECD/2014-2015">2014-2015</a></td>
     </tr>
+    <tr>
+            <td><a href="./Assets/Financial-and-Managerial-Accounting ">Financial-and-Managerial-Accounting </a></td>
+            <td>Unknown</td>
+            <td><a href="./Assets/Financial-and-Managerial-Accounting/2018-2019">2018-2019</a></td>
+        </tr>
     <tr>
         <td><a href="./Assets/Industrial_management">Industrial management</a></td>
         <td>Unknown</td>
@@ -224,3 +235,4 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td><a href="./Assets/System_Analysis_and_Design/System_Analysis_and_Design_17-18.pdf">2017-18</a></td>
     </tr>
 </table>
+>>>>>>> c79162e7fa4061056bcaac6ebf5fca5ff5278db0
