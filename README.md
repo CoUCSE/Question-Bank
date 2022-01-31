@@ -20,37 +20,33 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2014-2015</td>
     </tr>
     <tr>
-        <td><a href="./Assets/Algebra_Trigonometry_Matrices">Algebra Trigonometry Matrices</a></td>
+        <td rowspan="3"><a href="./Assets/Algebra_Trigonometry_Matrices">Algebra Trigonometry Matrices</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>2012-13</td>
     </tr>
     <tr>
-        <td></td>
         <td>Anwar Hossain</td>
         <td>2018-2019</td>
     </tr>
     <tr>
-        <td><a href="./Assets/Algorithm_Analysis_and_Design">Algorithm Analysis and Design</a></td>
+        <td rowspan="2"><a href="./Assets/Algorithm_Analysis_and_Design">Algorithm Analysis and Design</a></td>
         <td>Khalil Ahammad</td>
         <td>2017-2018</td>
     </tr>
     <tr>
-        <td></td>
         <td>Khalil Ahammad</td>
         <td>2018-2019</td>
     </tr>
     <tr>
-        <td><a href="./Assets/Bangladesh_Studies">Bangladesh Studies</a></td>
+        <td rowspan="2"><a href="./Assets/Bangladesh_Studies">Bangladesh Studies</a></td>
         <td>*Zia Rahman </td>
         <td>2017-2018</td>
     </tr>
     <tr>
-        <td></td>
         <td>Jannatul Ferdous </td>
         <td>2018-2019</td>
     </tr>
@@ -70,17 +66,15 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2014-2015</td>
     </tr>
     <tr>
-        <td><a href="./Assets/Computer_networks">Computer Networks</a></td>
+        <td rowspan="3"><a href="./Assets/Computer_networks">Computer Networks</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>2013-2014</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>Unknown</td>
     </tr>
@@ -90,12 +84,11 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2012-2013</td>
     </tr>
     <tr>
-        <td><a href="./Assets/Computer_Peripherals_and_Interfacing">Computer Peripherals and Interfacing</a></td>
+        <td rowspan="2"><a href="./Assets/Computer_Peripherals_and_Interfacing">Computer Peripherals and Interfacing</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>2012-2013</td>
     </tr>
@@ -115,32 +108,28 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>018-2019</td>
     </tr>
     <tr>
-        <td><a href="./Assets/DLD">Digital Logic Design</a></td>
+        <td rowspan="4"><a href="./Assets/DLD">Digital Logic Design</a></td>
         <td>Unknown</td>
         <td>2012-2013</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
-        <td>2014-2014</td>
+        <td>2014-2015</td>
     </tr>
     <tr>
-        <td></td>
         <td>Mahmuda Khatun Nishu</td>
         <td>2017-2018</td>
     </tr>
     <tr>
-        <td></td>
         <td>Mahmuda Khatun Nishu</td>
         <td>2018-2019</td>
     </tr>
     <tr>
-        <td><a href="./Assets/ECD">E-Commerce</a></td>
+        <td rowspan="2"><a href="./Assets/ECD">E-Commerce</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>2012-2013</td>
     </tr>
@@ -155,17 +144,15 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2018-2019<td>
     </tr>
     <tr>
-        <td><a href="./Assets/Industrial_management">Industrial management</a></td>
+        <td rowspan="4"><a href="./Assets/Industrial_management">Industrial management</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>2012-2013</td>
     <tr>
     </tr>
-        <td></td>
         <td>Unknown</td>
         <td>2013-2014</td>
     </tr>
@@ -185,27 +172,24 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2017-2018</td>
     </tr>
     </tr>
-        <td><a href="./Assets/OOP_c++">OOP C++</a></td>
+        <td rowspan="3"><a href="./Assets/OOP_c++">OOP C++</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     </tr>
-        <td></td>
         <td>Unknown</td>
         <td>2012-2013</td>
     </tr>
     </tr>
-        <td></td>
         <td>Aditi Sarker</td>
         <td>2018-2019</td>
     </tr>
     </tr>
-        <td><a href="./Assets/Operating_Systems_and_Systems_Programming">Operating Systems and Systems Programming</a></td>
+        <td rowspan="2"><a href="./Assets/Operating_Systems_and_Systems_Programming">Operating Systems and Systems Programming</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     </tr>
-        <td></td>
         <td>Unknown</td>
         <td>2012-2013</td>
     </tr>
@@ -225,17 +209,15 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>Unknown</td>
     </tr>
     <tr>
-        <td><a href="./Assets/Software_Engineering">Software Engineering</a></td>
+        <td rowspan="3"><a href="./Assets/Software_Engineering">Software Engineering</a></td>
         <td>Unknown</td>
         <td>2010-2011</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     <tr>
-        <td></td>
         <td>Unknown</td>
         <td>2012-2013</td>
     </tr>
