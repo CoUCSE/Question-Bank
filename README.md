@@ -108,6 +108,11 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>018-2019</td>
     </tr>
     <tr>
+        <td><a href="./Assets/DatabaseManagementSystem">Database Management System</a></td>
+        <td>Hasan Hafizur Rahman</td>
+        <td>2018-2019</td>
+    </tr>
+    <tr>
         <td rowspan="4"><a href="./Assets/DLD">Digital Logic Design</a></td>
         <td>Unknown</td>
         <td>2012-2013</td>
