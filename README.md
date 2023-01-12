@@ -227,8 +227,7 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td rowspan="3"><a href="./Assets/Software_Engineering">Software Engineering</a></td>
         <td>Unknown</td>
         <td>2010-2011</td>
-    </tr>
-   
+    </tr>  
     <tr>
         <td>Unknown</td>
         <td>2011-2012</td>
