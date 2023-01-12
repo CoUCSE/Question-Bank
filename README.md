@@ -105,7 +105,7 @@ We all need questions from previous semesters of previous batches to learn or pr
     <tr>
         <td><a href="./Assets/Data-Structure">Data Structure</a></td>
         <td>Hasan Hafizur Rahman</td>
-        <td>018-2019</td>
+        <td>2018-2019</td>
     </tr>
     <tr>
         <td><a href="./Assets/DatabaseManagementSystem">Database Management System</a></td>
@@ -213,11 +213,22 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>Unknown</td>
         <td>Unknown</td>
     </tr>
+     <tr>
+        <td><a href="./Assets/Data_Science">Data Science</a></td>
+        <td>Khairun Nahar</td>
+        <td>2018-2019</td>
+    </tr>
+     <tr>
+        <td><a href="./Assets/Technical_Writing">Technical Writing</a></td>
+        <td>Md. Mohibullah</td>
+        <td>2018-2019</td>
+    </tr>
     <tr>
         <td rowspan="3"><a href="./Assets/Software_Engineering">Software Engineering</a></td>
         <td>Unknown</td>
         <td>2010-2011</td>
     </tr>
+   
     <tr>
         <td>Unknown</td>
         <td>2011-2012</td>
