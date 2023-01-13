@@ -66,7 +66,7 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2014-2015</td>
     </tr>
     <tr>
-        <td rowspan="3"><a href="./Assets/Computer_networks">Computer Networks</a></td>
+        <td rowspan="4"><a href="./Assets/Computer_networks">Computer Networks</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
@@ -77,6 +77,10 @@ We all need questions from previous semesters of previous batches to learn or pr
     <tr>
         <td>Unknown</td>
         <td>Unknown</td>
+    </tr>
+     <tr>
+        <td>Partha Chakraborty</td>
+        <td>2018-2019</td>
     </tr>
     <tr>
         <td><a href="./Assets/Computer_networks">Computer Networks</a><b>Lab</b></td>
@@ -135,13 +139,17 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2018-2019</td>
     </tr>
     <tr>
-        <td rowspan="2"><a href="./Assets/ECD">E-Commerce</a></td>
+        <td rowspan="3"><a href="./Assets/E-Commerce">E-Commerce</a></td>
         <td>Unknown</td>
         <td>2011-2012</td>
     </tr>
     <tr>
         <td>Unknown</td>
         <td>2012-2013</td>
+    </tr>
+     <tr>
+        <td>Hasan Hafizur Rahman</td>
+        <td>2018-2019</td>
     </tr>
     <tr>
         <td><a href="./Assets/ECD">ECD</a></td>
@@ -167,10 +175,14 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2013-2014</td>
     </tr>
     </tr>
-        <td><a href="./Assets/Numarical_Methods">Industrial management</a> <b>Lab</b></td>
+        <td rowspan="2"><a href="./Assets/Numerical_Methods">Numerical Methods</a></td>
         <td>Unknown</td>
         <td>2013-2014</td>
     </tr>
+    <tr>
+        <td>Khairun Nahar</td>
+        <td>2018-2019</td>
+     </tr>
     <tr>
         <td><a href="./Assets/Java_Technologies">Java Technologies</a></td>
         <td>Nayan Banik</td>
