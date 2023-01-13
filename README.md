@@ -183,9 +183,8 @@ We all need questions from previous semesters of previous batches to learn or pr
          <td>Khairun Nahar</td>
         <td>2018-2019</td>
      </tr>
-        <td rowspan="2"><a href="./Assets/Java_Technologies">Java Technologies</a></td> 
     <tr>
-        <td><a href="./Assets/Java_Technologies">Java Technologies</a></td>
+        <td rowspan="2"><a href="./Assets/Java_Technologies">Java Technologies</a></td>
         <td>Nayan Banik</td>
         <td>2017-2018</td>
     </tr>
