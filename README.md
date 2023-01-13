@@ -4,7 +4,7 @@
 We all need questions from previous semesters of previous batches to learn or practice the question pattern of a course. Especially first year students need more. It takes a lot of time to understand about the exam. It is much easier to practice if you have previous year's questions.We allways face trouble to collect questions in time. We hope this repository will help us.
 
 <b><h4>How to attach a question:</h></b>
-<pre> <b>Comming Soon</b></pre>
+[Contribution](https://github.com/CoUCSE/Question-Bank/blob/main/Contribution.md)
 
 
 <h3>Index:</h4></br>
