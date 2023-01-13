@@ -167,10 +167,14 @@ We all need questions from previous semesters of previous batches to learn or pr
         <td>2013-2014</td>
     </tr>
     <tr>
-        <td><a href="./Assets/Java_Technologies">Java Technologies</a></td>
+        <td rowspan="2"><a href="./Assets/Java_Technologies">Java Technologies</a></td>
         <td>Nayan Banik</td>
         <td>2017-2018</td>
     </tr>
+	<tr>	
+		<td>Nayan Banik</td>
+        	<td>2018-2019</td>
+	</tr>
     <tr>
         <td><a href="./Assets/Java_Technologies">Java Technologies</a><b> LAB</b></td>
         <td>Nayan Banik</td>
