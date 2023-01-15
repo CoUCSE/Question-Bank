@@ -1,0 +1,37 @@
+name: Generate links for folders in README
+on: [push]
+jobs:
+  generate_links:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Get links for folders
+      run: |
+        TOKEN=${{ secrets.GITHUB_TOKEN }}
+        REPO_OWNER=$(echo $GITHUB_REPOSITORY | cut -d '/' -f 1)
+        REPO_NAME=$(echo $GITHUB_REPOSITORY | cut -d '/' -f 2)
+        echo -e "" > README.md
+        echo "Repository Structure" >> README.md
+        function build_tree {
+            local path=$1
+            local indent=$2
+            local contents=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/contents/$path")
+            local folders=$(echo $contents | jq -r '.[] | select(.type == "dir")')
+            local last_folder=""
+            for folder in $(echo "${folders}" | jq -r '.name'); do
+                local folder_path=$path/$folder
+                echo -e "${indent}* [${folder}](https://github.com/$REPO_OWNER/$REPO_NAME/tree/main/${folder_path})" >> README.md
+                last_folder=$folder
+                build_tree $folder_path "${indent}\t"
+            done
+        }
+        echo -e "" >> README.md
+        build_tree "" ""
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
+        git add README.md
+        git commit -m "Update README with links for folders"
+        git push
