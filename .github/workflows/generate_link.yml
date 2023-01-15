@@ -1,6 +1,6 @@
 name: Generate links for folders in README
 on: [push]
-# ©Nayeem Hossain.All rights reserved
+# © Nayeem Hossain.All rights reserved
 jobs:
   generate_links:
     runs-on: ubuntu-latest
@@ -28,13 +28,14 @@ jobs:
                 fi
             done
         }
+# © Nayeem Hossain.All rights reserved
         echo -e "" >> README.md
         build_tree "" ""
-        echo "<b><h4>How to attach a question:</h></b>[Contribution](https://github.com/CoUCSE/Question-Bank/blob/main/Contribution.md)" >> README.md
+        echo "<b><h4>How to attach a question:</h></b> [Contribution](https://github.com/CoUCSE/Question-Bank/blob/main/Contribution.md)" >> README.md
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
         git add README.md
-        git commit -m "Update README with links for folders"
+        git commit -m "Update README with Contents"
         git push
