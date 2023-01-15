@@ -13,13 +13,6 @@ jobs:
         REPO_OWNER=$(echo $GITHUB_REPOSITORY | cut -d '/' -f 1)
         REPO_NAME=$(echo $GITHUB_REPOSITORY | cut -d '/' -f 2)
         echo -e "" > README.md
-        echo "<h2> Question Bank</h2>
-<b><h4>Inspiration:</h4></b>
-
-We all need questions from previous semesters of previous batches to learn or practice the question pattern of a course. Especially first year students need more. It takes a lot of time to understand about the exam. It is much easier to practice if you have previous year's questions.We allways face trouble to collect questions in time. We hope this repository will help us.
-
-<b><h4>How to attach a question:</h></b>
-[Contribution](https://github.com/CoUCSE/Question-Bank/blob/main/Contribution.md)" >> README.md
         function build_tree {
             local path=$1
             local indent=$2
@@ -36,6 +29,7 @@ We all need questions from previous semesters of previous batches to learn or pr
             done
         }
         echo -e "" >> README.md
+        echo "<b><h4>How to attach a question:</h></b>[Contribution](https://github.com/CoUCSE/Question-Bank/blob/main/Contribution.md)" >> README.md
         build_tree "" ""
     - name: Commit and push changes
       run: |
