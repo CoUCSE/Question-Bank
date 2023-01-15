@@ -29,8 +29,8 @@ jobs:
             done
         }
         echo -e "" >> README.md
-        echo "<b><h4>How to attach a question:</h></b>[Contribution](https://github.com/CoUCSE/Question-Bank/blob/main/Contribution.md)" >> README.md
         build_tree "" ""
+        echo "<b><h4>How to attach a question:</h></b>[Contribution](https://github.com/CoUCSE/Question-Bank/blob/main/Contribution.md)" >> README.md
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
